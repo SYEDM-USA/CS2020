@@ -1,0 +1,172 @@
+The Godfather
+1972
+Drama
+129
+Pulp Fiction
+1994
+Comedy
+125
+12 Angry Men
+1957
+Sci Fi
+95
+Inception
+2010
+Drama
+114
+Seven Samurai
+1954
+Action
+89
+Fight Club
+1999
+Action
+115
+Goodfellas
+1990
+Drama
+85
+Casablanca
+1942
+Drama
+72
+City of God
+2002
+Drama
+121
+Rear Window
+1954
+Drama
+105
+The Matrix
+1999
+Action
+132
+Psycho
+1960
+Horror
+114
+Toy Story 3
+2010
+Comedy
+95
+Se7en
+1995
+Mystery
+82
+Memento
+2000
+Drama
+108
+Sunset Blvd.
+1950
+Drama
+127
+Forrest Gump
+1994
+Comedy
+104
+Citizen Kane
+1941
+Drama
+99
+Taxi Driver
+1976
+Drama
+101
+Vertigo
+1958
+Drama
+124
+Alien
+1979
+Drama
+109
+WALL-E
+2008
+Comedy
+110
+Spirited Away
+2001
+Drama
+85
+The Shining
+1980
+Mystery
+93
+The Pianist
+2002
+Drama
+116
+Black Swan
+2010
+Action
+102
+City Lights
+1931
+Drama
+95
+M
+1931
+Action
+107
+The Departed
+2006
+Drama
+92
+Aliens
+1986
+Sci Fi
+114
+Das Boot
+1981
+Drama
+87
+The Third Man
+1949
+Drama
+113
+Raging Bull
+1980
+Action
+127
+All About Eve
+1950
+Drama
+129
+The Green Mile
+1999
+Mystery
+88
+The Apartment
+1960
+Drama
+109
+Downfall
+2004
+Action
+135
+Up
+2009
+Comedy
+128
+Gran Torino
+2008
+Drama
+118
+Metropolis
+1927
+Drama
+96
+Gladiator
+2000
+Action
+105
+The Sting
+1973
+Action
+86
+Unforgiven
+1992
+Drama
+91
