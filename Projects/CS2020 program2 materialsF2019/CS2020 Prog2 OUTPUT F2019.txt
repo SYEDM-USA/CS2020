@@ -1,0 +1,377 @@
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 5
+Invalid, Enter your choice: 7
+Invalid, Enter your choice: 8
+Invalid, Enter your choice: 1
+Please enter ID number: 123
+Please enter name: Bill Jones
+Please enter zipcode: 47855
+Enter account balance: -800
+Negative balance not accepted. Try again. -300
+Negative balance not accepted. Try again. 800
+Enter date of last payment: 1/23/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 254
+Please enter name: Mary Todd
+Please enter zipcode: 47552
+Enter account balance: 500
+Enter date of last payment: 1/24/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 452
+Please enter name: Dennis Smith
+Please enter zipcode: 25641
+Enter account balance: 675
+Enter date of last payment: 1/25/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 369
+Please enter name: Dee Frank
+Please enter zipcode: 25982
+Enter account balance: 985
+Enter date of last payment: 1/26/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 578
+Please enter name: Pat Green
+Please enter zipcode: 54623
+Enter account balance: 142
+Enter date of last payment: 1/27/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 459
+Please enter name: Bob Ryan
+Please enter zipcode: 23147
+Enter account balance: 457
+Enter date of last payment: 1/28/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 852
+Please enter name: Jill Black
+Please enter zipcode: 25632
+Enter account balance: 650
+Enter date of last payment: 1/29/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 235
+Please enter name: Emily Hill
+Please enter zipcode: 78956
+Enter account balance: 352
+Enter date of last payment: 1/30/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 457
+Please enter name: Ted Hank
+Please enter zipcode: 45874
+Enter account balance: 458
+Enter date of last payment: 1/31/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 789
+Please enter name: Jim Frost
+Please enter zipcode: 26589
+Enter account balance: 785
+Enter date of last payment: 2/1/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 456
+Please enter name: Sue Math
+Please enter zipcode: 24563
+Enter account balance: 565
+Enter date of last payment: 2/2/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 853
+Please enter name: Pete Bird
+Please enter zipcode: 32587
+Enter account balance: 410
+Enter date of last payment: 2/3/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 145
+Please enter name: Robin Dunn
+Please enter zipcode: 45987
+Enter account balance: 254
+Enter date of last payment: 2/4/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 896
+Please enter name: Laura Winn
+Please enter zipcode: 25732
+Enter account balance: 745
+Enter date of last payment: 2/5/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 258
+Please enter name: Nicky Gild
+Please enter zipcode: 25558
+Enter account balance: 258
+Enter date of last payment: 2/6/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 147
+Please enter name: Pam McFee
+Please enter zipcode: 87453
+Enter account balance: 456
+Enter date of last payment: 2/7/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 149
+Please enter name: Quin Dase
+Please enter zipcode: 65424
+Enter account balance: 325
+Enter date of last payment: 2/8/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 458
+Please enter name: Mike Jar
+Please enter zipcode: 54125
+Enter account balance: 753
+Enter date of last payment: 2/9/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 785
+Please enter name: Steve Feals
+Please enter zipcode: 95541
+Enter account balance: 951
+Enter date of last payment: 2/10/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 422
+Please enter name: Ann Noon
+Please enter zipcode: 87545
+Enter account balance: 486
+Enter date of last payment: 2/11/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 553
+Please enter name: Zilly Putty
+Please enter zipcode: 54472
+Enter account balance: 372
+Enter date of last payment: 2/12/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 688
+Please enter name: Mino Shark
+Please enter zipcode: 96874
+Enter account balance: 789
+Enter date of last payment: 2/13/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 3
+##   ID   Name           Zip            Balance        Last Pay       
+--   --   ----           ---            -------        --------       
+1    123  Bill Jones     47855          800            1/23/2010      
+2    254  Mary Todd      47552          500            1/24/2010      
+3    452  Dennis Smith   25641          675            1/25/2010      
+4    369  Dee Frank      25982          985            1/26/2010      
+5    578  Pat Green      54623          142            1/27/2010      
+6    459  Bob Ryan       23147          457            1/28/2010      
+7    852  Jill Black     25632          650            1/29/2010      
+8    235  Emily Hill     78956          352            1/30/2010      
+9    457  Ted Hank       45874          458            1/31/2010      
+10   789  Jim Frost      26589          785            2/1/2010       
+11   456  Sue Math       24563          565            2/2/2010       
+12   853  Pete Bird      32587          410            2/3/2010       
+13   145  Robin Dunn     45987          254            2/4/2010       
+14   896  Laura Winn     25732          745            2/5/2010       
+15   258  Nicky Gild     25558          258            2/6/2010       
+16   147  Pam McFee      87453          456            2/7/2010       
+17   149  Quin Dase      65424          325            2/8/2010       
+18   458  Mike Jar       54125          753            2/9/2010       
+19   785  Steve Feals    95541          951            2/10/2010      
+20   422  Ann Noon       87545          486            2/11/2010      
+21   553  Zilly Putty    54472          372            2/12/2010      
+22   688  Mino Shark     96874          789            2/13/2010      
+----------------------------------------------------------------------
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 2
+Enter the id: 444
+444 not found. 
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 2
+Enter the id: 688
+Please enter ID number: 888
+Please enter name: Milo Stik
+Please enter zipcode: 77222
+Enter account balance: -300
+Enter date of last payment: Negative balance not accepted. Try again. -400
+Negative balance not accepted. Try again. 100
+12/1/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 1
+Please enter ID number: 919
+Please enter name: Happt Endings
+Please enter zipcode: 42411
+Enter account balance: 250
+Enter date of last payment: 9/12/2010
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 3
+##   ID   Name           Zip            Balance        Last Pay       
+--   --   ----           ---            -------        --------       
+1    123  Bill Jones     47855          800            1/23/2010      
+2    254  Mary Todd      47552          500            1/24/2010      
+3    452  Dennis Smith   25641          675            1/25/2010      
+4    369  Dee Frank      25982          985            1/26/2010      
+5    578  Pat Green      54623          142            1/27/2010      
+6    459  Bob Ryan       23147          457            1/28/2010      
+7    852  Jill Black     25632          650            1/29/2010      
+8    235  Emily Hill     78956          352            1/30/2010      
+9    457  Ted Hank       45874          458            1/31/2010      
+10   789  Jim Frost      26589          785            2/1/2010       
+11   456  Sue Math       24563          565            2/2/2010       
+12   853  Pete Bird      32587          410            2/3/2010       
+13   145  Robin Dunn     45987          254            2/4/2010       
+14   896  Laura Winn     25732          745            2/5/2010       
+15   258  Nicky Gild     25558          258            2/6/2010       
+16   147  Pam McFee      87453          456            2/7/2010       
+17   149  Quin Dase      65424          325            2/8/2010       
+18   458  Mike Jar       54125          753            2/9/2010       
+19   785  Steve Feals    95541          951            2/10/2010      
+20   422  Ann Noon       87545          486            2/11/2010      
+21   553  Zilly Putty    54472          372            2/12/2010      
+22   888  Milo Stik      77222          100            12/1/2010      
+23   919  Happt Endings  42411          250            9/12/2010      
+----------------------------------------------------------------------
+---------------------------------
+1. Enter new account information 
+2. Change account information 
+3. Display all account information 
+4. Exit the program 
+-----------------------------------
+Enter your choice: 4

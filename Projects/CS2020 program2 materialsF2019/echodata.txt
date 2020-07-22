@@ -1,0 +1,7 @@
+watch
+25
+shirt
+29
+shoes
+30
+q
