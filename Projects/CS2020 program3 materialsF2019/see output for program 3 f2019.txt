@@ -1,0 +1,311 @@
+The list is Empty.
+----------------------------------------------------------------------------
+
+
+The Sophomore are: 
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+
+There were no Soph on the list.
+
+----------------------------------------------------------------------------
+
+
+The Dean's list students are:
+
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+
+There were no Dean's list students on the list.
+
+----------------------------------------------------------------------------
+
+
+Pat Green was added to the list.
+----------------------------------------------------------------------------
+
+
+Sam Jones was added to the list.
+----------------------------------------------------------------------------
+
+
+Fred Smit was added to the list.
+----------------------------------------------------------------------------
+
+
+Jenny Dee was added to the list.
+----------------------------------------------------------------------------
+
+
+Frank Watt was added to the list.
+----------------------------------------------------------------------------
+
+
+Sue Mills was added to the list.
+----------------------------------------------------------------------------
+
+
+Betty Blue was added to the list.
+----------------------------------------------------------------------------
+
+
+Henry Pole was added to the list.
+----------------------------------------------------------------------------
+
+
+Terry Wile was added to the list.
+----------------------------------------------------------------------------
+
+
+Kenny Sute was added to the list.
+----------------------------------------------------------------------------
+
+
+Mony Block was added to the list.
+----------------------------------------------------------------------------
+
+
+Sara Kire was added to the list.
+----------------------------------------------------------------------------
+
+
+Jelly Bean was added to the list.
+----------------------------------------------------------------------------
+
+
+Den Marc was added to the list.
+----------------------------------------------------------------------------
+
+
+Sue Danny was added to the list.
+----------------------------------------------------------------------------
+
+
+Sara Yeavo was added to the list.
+----------------------------------------------------------------------------
+
+
+Ben Hurr was added to the list.
+----------------------------------------------------------------------------
+
+
+Chad Bush was added to the list.
+----------------------------------------------------------------------------
+
+
+Kerry Nun was added to the list.
+----------------------------------------------------------------------------
+
+
+Tom Katty was added to the list.
+----------------------------------------------------------------------------
+
+
+Vin Onono was added to the list.
+----------------------------------------------------------------------------
+
+
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+Vin Onono                1195      Senr      2.40           
+Tom Katty                1275      Junr      3.10           
+Kerry Nun                4272      Junr      3.90           
+Chad Bush                2315      Fresh     2.20           
+Ben Hurr                 4816      Fresh     3.50           
+Sara Yeavo               2793      Senr      4.00           
+Sue Danny                8249      Soph      3.70           
+Den Marc                 9312      Fresh     2.80           
+Jelly Bean               3176      Junr      2.60           
+Sara Kire                3453      Senr      1.90           
+Mony Block               8718      Fresh     3.80           
+Kenny Sute               4540      Soph      3.70           
+Terry Wile               2377      Junr      3.10           
+Henry Pole               6492      Senr      2.50           
+Betty Blue               9448      Soph      3.90           
+Sue Mills                1473      Junr      4.00           
+Frank Watt               8491      Senr      3.60           
+Jenny Dee                7515      Fresh     2.60           
+Fred Smit                4544      Soph      2.10           
+Sam Jones                3292      Senr      3.20           
+Pat Green                3478      Junr      3.50           
+----------------------------------------------------------------------------
+
+
+The Dean's list students are:
+
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+Kerry Nun                4272      Junr      3.90           
+Ben Hurr                 4816      Fresh     3.50           
+Sara Yeavo               2793      Senr      4.00           
+Sue Danny                8249      Soph      3.70           
+Mony Block               8718      Fresh     3.80           
+Kenny Sute               4540      Soph      3.70           
+Betty Blue               9448      Soph      3.90           
+Sue Mills                1473      Junr      4.00           
+Frank Watt               8491      Senr      3.60           
+Pat Green                3478      Junr      3.50           
+----------------------------------------------------------------------------
+
+
+The Sophomore are: 
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+Sue Danny                8249      Soph      3.70           
+Kenny Sute               4540      Soph      3.70           
+Betty Blue               9448      Soph      3.90           
+Fred Smit                4544      Soph      2.10           
+----------------------------------------------------------------------------
+
+
+The Juniors are: 
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+Tom Katty                1275      Junr      3.10           
+Kerry Nun                4272      Junr      3.90           
+Jelly Bean               3176      Junr      2.60           
+Terry Wile               2377      Junr      3.10           
+Sue Mills                1473      Junr      4.00           
+Pat Green                3478      Junr      3.50           
+----------------------------------------------------------------------------
+
+
+The student : 1111 was not in the list.
+----------------------------------------------------------------------------
+
+
+Vin Onono was removed from list. 
+----------------------------------------------------------------------------
+
+
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+Tom Katty                1275      Junr      3.10           
+Kerry Nun                4272      Junr      3.90           
+Chad Bush                2315      Fresh     2.20           
+Ben Hurr                 4816      Fresh     3.50           
+Sara Yeavo               2793      Senr      4.00           
+Sue Danny                8249      Soph      3.70           
+Den Marc                 9312      Fresh     2.80           
+Jelly Bean               3176      Junr      2.60           
+Sara Kire                3453      Senr      1.90           
+Mony Block               8718      Fresh     3.80           
+Kenny Sute               4540      Soph      3.70           
+Terry Wile               2377      Junr      3.10           
+Henry Pole               6492      Senr      2.50           
+Betty Blue               9448      Soph      3.90           
+Sue Mills                1473      Junr      4.00           
+Frank Watt               8491      Senr      3.60           
+Jenny Dee                7515      Fresh     2.60           
+Fred Smit                4544      Soph      2.10           
+Sam Jones                3292      Senr      3.20           
+Pat Green                3478      Junr      3.50           
+----------------------------------------------------------------------------
+
+
+Rob Black was added to the list.
+----------------------------------------------------------------------------
+
+
+John Fregh was added to the list.
+----------------------------------------------------------------------------
+
+
+Pat Green was removed from list. 
+----------------------------------------------------------------------------
+
+
+Betty Blue was removed from list. 
+----------------------------------------------------------------------------
+
+
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+John Fregh               9123      Senr      3.80           
+Rob Black                3845      Fresh     3.90           
+Tom Katty                1275      Junr      3.10           
+Kerry Nun                4272      Junr      3.90           
+Chad Bush                2315      Fresh     2.20           
+Ben Hurr                 4816      Fresh     3.50           
+Sara Yeavo               2793      Senr      4.00           
+Sue Danny                8249      Soph      3.70           
+Den Marc                 9312      Fresh     2.80           
+Jelly Bean               3176      Junr      2.60           
+Sara Kire                3453      Senr      1.90           
+Mony Block               8718      Fresh     3.80           
+Kenny Sute               4540      Soph      3.70           
+Terry Wile               2377      Junr      3.10           
+Henry Pole               6492      Senr      2.50           
+Sue Mills                1473      Junr      4.00           
+Frank Watt               8491      Senr      3.60           
+Jenny Dee                7515      Fresh     2.60           
+Fred Smit                4544      Soph      2.10           
+Sam Jones                3292      Senr      3.20           
+----------------------------------------------------------------------------
+
+
+The Freshman are: 
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+Rob Black                3845      Fresh     3.90           
+Chad Bush                2315      Fresh     2.20           
+Ben Hurr                 4816      Fresh     3.50           
+Den Marc                 9312      Fresh     2.80           
+Mony Block               8718      Fresh     3.80           
+Jenny Dee                7515      Fresh     2.60           
+----------------------------------------------------------------------------
+
+
+The Seniors are: 
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+John Fregh               9123      Senr      3.80           
+Sara Yeavo               2793      Senr      4.00           
+Sara Kire                3453      Senr      1.90           
+Henry Pole               6492      Senr      2.50           
+Frank Watt               8491      Senr      3.60           
+Sam Jones                3292      Senr      3.20           
+----------------------------------------------------------------------------
+
+
+The Dean's list students are:
+
+Name                     Id        Status    Gpa            
+----------------------------------------------------------------------------
+John Fregh               9123      Senr      3.80           
+Rob Black                3845      Fresh     3.90           
+Kerry Nun                4272      Junr      3.90           
+Ben Hurr                 4816      Fresh     3.50           
+Sara Yeavo               2793      Senr      4.00           
+Sue Danny                8249      Soph      3.70           
+Mony Block               8718      Fresh     3.80           
+Kenny Sute               4540      Soph      3.70           
+Sue Mills                1473      Junr      4.00           
+Frank Watt               8491      Senr      3.60           
+----------------------------------------------------------------------------
+
+
+John Fregh has been removed from list. 
+Rob Black has been removed from list. 
+Tom Katty has been removed from list. 
+Kerry Nun has been removed from list. 
+Chad Bush has been removed from list. 
+Ben Hurr has been removed from list. 
+Sara Yeavo has been removed from list. 
+Sue Danny has been removed from list. 
+Den Marc has been removed from list. 
+Jelly Bean has been removed from list. 
+Sara Kire has been removed from list. 
+Mony Block has been removed from list. 
+Kenny Sute has been removed from list. 
+Terry Wile has been removed from list. 
+Henry Pole has been removed from list. 
+Sue Mills has been removed from list. 
+Frank Watt has been removed from list. 
+Jenny Dee has been removed from list. 
+Fred Smit has been removed from list. 
+Sam Jones has been removed from list. 
+The list is now empty!
+Fin!
+Program Terminated.
+Press any key to continue . . . 

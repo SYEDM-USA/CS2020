@@ -1,0 +1,109 @@
+2 2222
+4 2
+5
+1Pat Green
+3478
+Junr
+3.5
+1Sam Jones
+3292
+Senr
+3.2
+1Fred Smit
+4544
+Soph
+2.1
+1Jenny Dee
+7515
+Fresh
+2.6
+1Frank Watt
+8491
+Senr
+3.6
+1Sue Mills
+1473
+Junr
+4.0
+1Betty Blue
+9448
+Soph
+3.9
+1Henry Pole
+6492
+Senr
+2.5
+1Terry Wile
+2377
+Junr
+3.1
+1Kenny Sute
+4540
+Soph
+3.7
+1Mony Block
+8718
+Fresh
+3.8
+1Sara Kire
+3453
+Senr
+1.9
+1Jelly Bean
+3176
+Junr
+2.6
+1Den Marc
+9312
+Fresh
+2.8
+1Sue Danny
+8249
+Soph
+3.7
+1Sara Yeavo
+2793
+Senr
+4.0
+1Ben Hurr
+4816
+Fresh
+3.5
+1Chad Bush
+2315
+Fresh
+2.2
+1Kerry Nun
+4272
+Junr
+3.9
+1Tom Katty
+1275
+Junr
+3.1
+1Vin Onono
+1195
+Senr
+2.4
+3
+5
+4 2
+4 3
+2 1111
+2 1195
+3
+1Rob Black
+3845
+Fresh
+3.9
+1John Fregh
+9123
+Senr
+3.8
+2 3478
+2 9448
+3
+4 1
+4 4
+5
+0
